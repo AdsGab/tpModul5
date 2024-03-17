@@ -1,0 +1,14 @@
+D:\C#\TPMOD5\tpMod5\tpMod5\bin\Debug\net8.0\tpMod5.exe
+D:\C#\TPMOD5\tpMod5\tpMod5\bin\Debug\net8.0\tpMod5.deps.json
+D:\C#\TPMOD5\tpMod5\tpMod5\bin\Debug\net8.0\tpMod5.runtimeconfig.json
+D:\C#\TPMOD5\tpMod5\tpMod5\bin\Debug\net8.0\tpMod5.dll
+D:\C#\TPMOD5\tpMod5\tpMod5\bin\Debug\net8.0\tpMod5.pdb
+D:\C#\TPMOD5\tpMod5\tpMod5\obj\Debug\net8.0\tpMod5.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TPMOD5\tpMod5\tpMod5\obj\Debug\net8.0\tpMod5.AssemblyInfoInputs.cache
+D:\C#\TPMOD5\tpMod5\tpMod5\obj\Debug\net8.0\tpMod5.AssemblyInfo.cs
+D:\C#\TPMOD5\tpMod5\tpMod5\obj\Debug\net8.0\tpMod5.csproj.CoreCompileInputs.cache
+D:\C#\TPMOD5\tpMod5\tpMod5\obj\Debug\net8.0\tpMod5.dll
+D:\C#\TPMOD5\tpMod5\tpMod5\obj\Debug\net8.0\refint\tpMod5.dll
+D:\C#\TPMOD5\tpMod5\tpMod5\obj\Debug\net8.0\tpMod5.pdb
+D:\C#\TPMOD5\tpMod5\tpMod5\obj\Debug\net8.0\tpMod5.genruntimeconfig.cache
+D:\C#\TPMOD5\tpMod5\tpMod5\obj\Debug\net8.0\ref\tpMod5.dll
